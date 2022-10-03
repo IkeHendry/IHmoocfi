@@ -1,5 +1,5 @@
 # IHmoocfi
-Sample of programming from mooc certificate
+Sample of programming from mooc certificate, the instructions for each programming exercise are listed below in this README file to demonstrate what is being requested:
 
 Programming exercise:
 Cubes
